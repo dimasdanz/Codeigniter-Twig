@@ -1,5 +1,4 @@
 # Codeigniter-Twig
-### [Dimas Rullyan Danu](https://id.linkedin.com/in/dimasdanz) (dimasdanz@gmail.com)
 
 Simple Twig Templating Engine implementation on Codeigniter 3.0 via Composer
 
